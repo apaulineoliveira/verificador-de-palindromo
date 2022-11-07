@@ -7,5 +7,5 @@
 <li><b>join</b>: Esse método vai juntar todos os elementos do array em uma string.</li>
 </ul>
 🎬
-<h3>Utilizando RegExp e toLowerCase</h3>
-<p>A segunda solução que consta no arquivo: <b>scripttwo.js</b></p>
+<h3>Utilizando RegExp, toLowerCase e replace</h3>
+<p>A segunda solução que consta no arquivo: <b>scripttwo.js</b> possui alguns itens adicionais que deixam o código mais interessante e com respostas mais assertivas. Como a implementação do <b>RegExp</b> e do <b>toLowerCase</b>. O primeiro é utilizado para remover caracteres indesejados da string. O segundo, coloca a string em letras maiúsculas. O método <b>replace</b> foi utilizado para retornar uma nova string com alguma ou todas as correspondências substituídas por aquilo que foi sugerido, neste caso, foi usada a <b>RegExp</b> anteriormente criada. </p>
