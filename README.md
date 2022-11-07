@@ -6,3 +6,6 @@
 <li><b>reverse</b>: Esse método inverte os itens de um array. O primeiro elemento do array se torna o último e o último torna-se o primeiro.</li>
 <li><b>join</b>: Esse método vai juntar todos os elementos do array em uma string.</li>
 </ul>
+🎬
+<h3>Utilizando RegExp e toLowerCase</h3>
+<p>A segunda solução que consta no arquivo: <b>scripttwo.js</b></p>
